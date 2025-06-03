@@ -126,9 +126,4 @@ This project is built to be **understandable**, **practical**, and **ready to de
 
 Feel free to fork, extend, or submit pull requests! Let’s build smarter health tools together.
 
----
-
-## 📜 License
-
-MIT License. Use it, improve it, share it.
 
